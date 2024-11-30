@@ -63,30 +63,36 @@
     </style>
 </head>
 <body>
+    <!-- ヘッダー部分 -->
     <header>
         <h1>焼肉牛工大</h1>
         <p>最高の焼肉体験を提供します！</p>
     </header>
+
+    <!-- コンテンツ部分 -->
     <div class="container">
         <h2>おすすめメニュー</h2>
+        <!-- ここに画像配置のコードを書く -->
         <div class="menu">
             <div class="menu-item">
-                <img src="images/menu1.jpg" alt="特選カルビ">
+                <img src="images/koudai_karubi" alt="特選カルビ" width="300">
                 <h3>特選カルビ</h3>
                 <p>柔らかくジューシーな一品です。</p>
             </div>
             <div class="menu-item">
-                <img src="images/menu2.jpg" alt="上タン塩">
+                <img src="images/buta_tan" alt="上タン塩" width="300">
                 <h3>上タン塩</h3>
                 <p>さっぱりした味わいの塩タン。</p>
             </div>
             <div class="menu-item">
-                <img src="images/menu3.jpg" alt="石焼ビビンバ">
+                <img src="images/mise1" alt="石焼ビビンバ" width="300">
                 <h3>石焼ビビンバ</h3>
                 <p>ご飯と具材の香ばしさが絶妙。</p>
             </div>
         </div>
     </div>
+
+    <!-- フッター部分 -->
     <footer>
         <p>© 2024 焼肉牛工大. All Rights Reserved.</p>
     </footer>
